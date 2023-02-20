@@ -11,5 +11,3 @@
 
 #### About Me
 - I am civil engineer but start to deal with programming.
-- Currently I'm in a academy program which is Bilge Adam Boost.
-
