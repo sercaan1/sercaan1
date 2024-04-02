@@ -1,7 +1,7 @@
 ## Hey, It's Sercan
 ----
 #### Social Media
-<a href="https://https://www.linkedin.com/in/sercankarakuyu/">
+<a href="https://www.linkedin.com/in/sercankarakuyu/">
   <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
 <a href="https://github.com/sercaan1">
